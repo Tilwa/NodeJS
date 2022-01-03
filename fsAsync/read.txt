@@ -1,0 +1,1 @@
+This is async function  and we must pass a func as a argument in it 
