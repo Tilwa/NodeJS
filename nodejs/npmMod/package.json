@@ -1,0 +1,16 @@
+{
+  "name": "npmmod",
+  "version": "1.0.0",
+  "description": "node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shahrukh",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "nodemon": "^2.0.4",
+    "validator": "^13.7.0"
+  }
+}
